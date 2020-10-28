@@ -6,3 +6,20 @@ body {
     background-color: rgb(228, 218, 228);
     color: rgb(88, 88, 88);
 }
+
+h2 {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1.7rem;
+}
+
+footer {
+    text-align: left;
+    font-size: 14px;
+    padding: 15px;
+    background-color: rgb(184, 170, 184);
+}
+
+footer a {
+    text-decoration: none;
+}
